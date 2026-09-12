@@ -11,15 +11,19 @@ hardware into the shell and with the UI designer to synchronise
 the lamp with the ProtoPie interface.
 
 ## Hardware
-
-- Elegoo UNO R3
-- Servo Motor
-- NeoPixel Ring
-- DFPlayer Mini
-- Ultrasonic Sensor
-- Touch Sensor
+Input
+- TTP223 Touch sensor
+- Push Button
+- HC-SR04 Ultrasonic sensor
 - Photoresistor
-- Button
+
+Output
+- SG90 Micro Servo motor
+- 8-LED NeoPixel ring
+- DFPlayer Mini MP3
+
+Controller
+- Elegoo UNO R3
 
 ## Software
 
